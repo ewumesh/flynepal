@@ -1,0 +1,61 @@
+
+<div class="product-dialog">
+
+    <div class="close-btn-outer">
+      <button mat-mini-fab color="warn" (click)="close()"><mat-icon>close</mat-icon></button>
+    </div>
+    <div mat-dialog-content>
+      <div fxLayout="row wrap" >
+          <div fxFlex="100" fxFlex.gt-sm="50">
+              <div class="swiper-container h-100">
+                  <div class="swiper-wrapper">
+                    <img [src]="product.pictures" alt="" class="img-fluid">
+                  </div>
+
+              </div>
+          </div>
+          <div fxFlex="100" fxFlex.gt-sm="50" ngClass.gt-sm="px-2 m-0" ngClass.sm="mt-2" ngClass.xs="mt-2">
+            <div class="product-right">
+                <div class="product-details">
+
+                    <h2 class="mb-10">{{product.name}}</h2>
+                    <div class="stars" fxLayout="row" >
+                        <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                        <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                        <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                        <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                        <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                     </div>
+                    <div class="prices" fxLayout="row">
+                        <h4 class="mb-10" ><del>{{product.price | currency:productsService?.currency:'symbol'}}</del></h4>
+                        <h3 class="price mb-10">{{product.price | currency:productsService?.currency:'symbol' }}</h3>
+                    </div>
+                  <div class="discription">
+                    <p class="bold">Product details</p>
+                    <p class="text-muted productDescription">{{product.description}}</p>
+                  </div>
+              </div>
+
+              <div class="quantity mt-15">
+                  <div fxLayout="row" fxLayout.xs="column"  class="text-muted mt-15">
+                    <div class="counter" fxLayout="row" fxLayoutAlign="center start">
+                            <button color="primary" class="remove" mat-icon-button matTooltip="Remove" (click)="decrement()"><i class="material-icons">keyboard_arrow_down</i>
+                            </button>
+                            <input type="text" name="quantity" value="{{counter}}" class="form-control input-number">
+                            <button color="primary" class="add" mat-icon-button matTooltip="Add" (click)="increment()"><i class="material-icons">keyboard_arrow_up</i></button>
+                    </div>
+                    <div class="button ">
+                        <button mat-raised-button color="primary" class="btn-project mr-10" (click)="addToCart(product, counter)">ADD TO CARD</button>
+                    </div>
+                </div>
+              </div>
+
+            </div>
+
+
+
+          </div>
+      </div>
+    </div>
+
+    </div>

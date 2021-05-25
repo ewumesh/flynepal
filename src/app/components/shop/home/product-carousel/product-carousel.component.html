@@ -1,0 +1,53 @@
+
+
+      <div class="product-item swiper-container" [swiper]="config" >
+
+          <div class="swiper-wrapper h-100">
+
+              <div *ngFor="let product of product" class="swiper-slide">
+          <mat-card fxLayout="column">
+              <div class="product-img" [routerLink]="['/home/product', product.id]">
+                  <a class="product-link" >
+                    <img [src]="product.pictures" alt="">
+                 </a>
+              </div>
+               <div class="product-info-wrapper">
+                  <span class="category"></span>
+                  <div class="title-wrap" fxLayout="row" fxLayoutAlign="space-between center">
+                     <h4 [routerLink]="['/home/fruit, fruit.id']">{{product.name}}</h4>
+                     <p>{{product.price}}$/kg</p>
+                  </div>
+
+                      <div class="stars" fxLayout="row" >
+                          <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                          <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                          <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                          <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                          <mat-icon class="mat-icon-xs mat-icon material-icons ng-star-inserted">star_rate</mat-icon>
+                       </div>
+
+
+                       <div class="btn-wrap" fxLayout="row" fxLayoutAlign="space-between center">
+                        <p (click)="showMore(product)" class="view-more"> View {{ product.state === 'small' ? 'more' : 'less'}}</p>
+
+                      <a class="bucket">
+                          <a (click)="addToCart(product)"><mat-icon color="primary" class="mat-icon-lg mat-icon material-icons">shopping_cart</mat-icon></a>
+                      </a>
+
+                  </div>
+                  <div class="details-products">
+                      <div class="more-info" [@myAnimation]="product.state">
+                        <p>{{product.shortDetails}}</p>
+                        </div>
+                  </div>
+                  <div class="icons" fxLayout="column">
+                     <a class="ic-1"><mat-icon class="mat-icon-lg mat-icon material-icons mr-10">favorite_border</mat-icon></a>
+                     <a (click)="openProductDialog(product)" class="ic-2"><mat-icon>remove_red_eye</mat-icon></a>
+                   </div>
+               </div>
+            </mat-card>
+                      </div>
+                    </div>
+                  </div>
+
+

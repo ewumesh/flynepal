@@ -1,0 +1,10 @@
+<div class="price-slider">
+    <div fxLayout="row" fxLayoutAlign="space-between center" class="text-muted">
+        <span>From: <b>Nrs - {{priceFrom}}</b></span>
+        <span>To: <b>Nrs - {{priceTo}}</b></span>
+    </div>
+    <div fxLayout="row" fxLayoutAlign="space-between center" class="filter-price">
+        <mat-slider (change)="priceFilter()" color="primary" max="100000" min="1000" thumb-label="true" [(ngModel)]="priceFrom"></mat-slider>
+        <mat-slider (change)="priceFilter()" color="warn" max="1000000" min="1000" thumb-label="true" [(ngModel)]="priceTo"></mat-slider>
+    </div>
+</div>
