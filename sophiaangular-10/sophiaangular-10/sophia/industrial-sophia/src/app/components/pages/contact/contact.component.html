@@ -1,0 +1,99 @@
+<div class="contact-page sec-padding">
+  <div class="container">
+      <mat-card>
+      <div class="map">
+          <agm-map [latitude]="latitude" [longitude]="latitude">
+            </agm-map>
+      </div>
+      <div fxLayout="row" fxLayout.lt-sm="column" fxLayoutAlign="start start" class="p-0">
+
+              <div fxFlex="100"   fxFlex.gt-sm="60" class="left-info-panel">
+                <div class="get-in-touch">
+                    <div class="title">
+                        <h3>Get in touch</h3>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur eget leo at velit imperdiet varius. In eu ipsum vitae velit congue iaculis vitae at risus. Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div>
+                <div class="devider"></div>
+               <div class="address">
+                  <div class="title">
+                      <h3>Location</h3>
+                  </div>
+                  <ul>
+                      <li fxLayoutAlign="start center" fxLayout="row">
+                         <div class="icon"><i class="material-icons">home </i></div>
+                         <div class="text"><b>Address:</b> 1234 Street Name, City Name, United States</div>
+                      </li>
+                      <li fxLayoutAlign="start center" fxLayout="row">
+                          <div class="icon"><i class="material-icons">home </i></div>
+                          <div class="text"><b>Address:</b> 1234 Street Name, City Name, United States</div>
+                       </li>
+                       <li fxLayoutAlign="start center" fxLayout="row">
+                          <div class="icon"><i class="material-icons">home </i></div>
+                          <div class="text"><b>Address:</b> 1234 Street Name, City Name, United States</div>
+                       </li>
+
+                    </ul>
+               </div>
+               <div class="devider"></div>
+               <div class="hours">
+                  <div class="title">
+                      <h3>Working hours</h3>
+                  </div>
+                  <ul>
+                      <li fxLayoutAlign="start center" fxLayout="row">
+                         <div class="icon"><i class="material-icons">query_builder </i></div>
+                         <div class="text"><b>Monday-Friday:</b> 08:00 - 22:00</div>
+                      </li>
+                      <li fxLayoutAlign="start center" fxLayout="row">
+                          <div class="icon"><i class="material-icons">query_builder</i></div>
+                          <div class="text"><b>Sutarday:</b> 08:00 - 17:00</div>
+                       </li>
+                       <li fxLayoutAlign="start center" fxLayout="row">
+                          <div class="icon"><i class="material-icons">query_builder</i></div>
+                          <div class="text"><b>Sunday:</b> Closed</div>
+                       </li>
+
+                    </ul>
+               </div>
+              </div>
+              <div fxFlex="100"   fxFlex.gt-sm="60" class="contact-form">
+
+                  <div class="title">
+                      <h3>Contact us</h3>
+                  </div>
+                  <form fxLayout="row wrap">
+                    <div  fxFlex="100" fxFlex.gt-sm="100" class="px-1" ngClass.sm="mt-1" ngClass.xs="mt-1">
+                        <mat-form-field class="w-100">
+                            <input matInput placeholder="Your Name (required)" #name="ngModel" ngModel name="name" required>
+                            <mat-error *ngIf="name.invalid">Please enter a valid message</mat-error>
+                          </mat-form-field>
+                    </div>
+                    <div  fxFlex="100" fxFlex.gt-sm="100" class="px-1" ngClass.sm="mt-1" ngClass.xs="mt-1">
+                        <mat-form-field class="w-100">
+                            <input matInput placeholder="Your Email (required)" #email="ngModel" ngModel name="email" required>
+                            <mat-error *ngIf="email.invalid">Please enter a valid message</mat-error>
+                          </mat-form-field>
+                    </div>
+                    <div  fxFlex="100" fxFlex.gt-sm="100" class="px-1" ngClass.sm="mt-1" ngClass.xs="mt-1">
+                        <mat-form-field class="w-100">
+                            <input matInput placeholder="Subject" #subject="ngModel" ngModel name="subject" required>
+                            <mat-error *ngIf="subject.invalid">Please enter a valid message</mat-error>
+                          </mat-form-field>
+                    </div>
+                    <div  fxFlex="100" fxFlex.gt-sm="100" class="px-1" ngClass.sm="mt-1" ngClass.xs="mt-1">
+                        <mat-form-field class="w-100">
+                            <textarea placeholder="Post content" matInput rows="6" ngModel name="content" required></textarea>
+                          </mat-form-field>
+                    </div>
+                    <div fxFlex="100" fxFlex.gt-sm="100" class="px-1 button-wrap" ngClass.sm="mt-1" ngClass.xs="mt-1">
+                        <button class="btn-project" mat-raised-button color="accent" type="submit">Send</button>
+                      </div>
+                    </form>
+              </div>
+
+      </div>
+    </mat-card>
+</div>
+</div>
+

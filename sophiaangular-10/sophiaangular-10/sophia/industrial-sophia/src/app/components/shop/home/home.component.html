@@ -1,0 +1,41 @@
+<app-main-carousel [slides]="slides"></app-main-carousel>
+<div class="home-1-wrap">
+    <div class="products sec-padding">
+        <div class="container">
+            <mat-tab-group>
+
+                <mat-tab  label="FEATURED PRODUCTS">
+
+                         <app-product-carousel [product]="products | slice:0:8"></app-product-carousel>
+
+                </mat-tab>
+
+                <mat-tab label="LATEST PRODUCTS">
+
+                        <app-product-carousel [product]="products | slice:0:14"></app-product-carousel>
+
+                </mat-tab>
+
+                <mat-tab label="ON SALE PRODUCTS">
+
+                          <app-product-carousel [product]="products | slice:14:22"></app-product-carousel>
+
+                </mat-tab>
+
+              </mat-tab-group>
+        </div>
+
+      </div>
+      <div class="categories sec-padding">
+          <div class="container">
+            <div class="title">
+                <h3>BROWSE</h3>
+            </div>
+
+            <app-banners></app-banners>
+          </div>
+          </div>
+      <app-info-bar></app-info-bar>
+      <app-blog-section></app-blog-section>
+
+</div>

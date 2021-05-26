@@ -1,0 +1,967 @@
+[{
+  "id": 1,
+  "name": "Wall Mounted Exit Light",
+  "price": 175,
+  "salePrice": 160,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/exit1/exit1.png",
+      "big": "assets/images/product/small/exit1/exit1.png"
+  },
+  {
+      "small": "assets/images/product/small/exit1/exit2.png",
+      "big": "assets/images/product/small/exit1/exit2.png"
+  },
+  {
+      "small": "assets/images/product/small/exit1/exit3.png",
+      "big": "assets/images/product/small/exit1/exit3.png"
+  }
+  ],
+
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Exit Lights"
+},
+{
+  "id": 2,
+  "name": "iTech Z Suspended Exit Light IP65",
+  "price": 235,
+  "salePrice": 200,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/exit2/exit1.png",
+      "big": "assets/images/product/small/exit2/exit1.png"
+  },
+  {
+      "small": "assets/images/product/small/exit2/exit2.png",
+      "big": "assets/images/product/small/exit2/exit2.png"
+  },
+  {
+      "small": "assets/images/product/small/exit2/exit3.png",
+      "big": "assets/images/product/small/exit2/exit3.png"
+  },
+  {
+    "small": "assets/images/product/small/exit2/exit4.png",
+    "big": "assets/images/product/small/exit2/exit4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-2",
+  "newPro": true,
+  "sale": true,
+  "category": "Exit Lights"
+},
+{
+  "id": 3,
+  "name": "ONTEC G Ceiling Mounted Exit Light",
+  "price": 350,
+  "salePrice": 200,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/exit3/exit1.png",
+      "big": "assets/images/product/small/exit3/exit1.png"
+  },
+  {
+      "small": "assets/images/product/small/exit3/exit2.png",
+      "big": "assets/images/product/small/exit3/exit2.png"
+  },
+  {
+      "small": "assets/images/product/small/exit3/exit3.png",
+      "big": "assets/images/product/small/exit3/exit3.png"
+  }
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Exit Lights"
+},
+{
+  "id": 4,
+  "name": "ONTEC S IP65 Exit Light",
+  "price": 266,
+  "salePrice": 200,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/exit4/exit1.png",
+      "big": "assets/images/product/small/exit4/exit1.png"
+  },
+  {
+      "small": "assets/images/product/small/exit4/exit2.png",
+      "big": "assets/images/product/small/exit4/exit2.png"
+  },
+  {
+      "small": "assets/images/product/small/exit4/exit3.png",
+      "big": "assets/images/product/small/exit4/exit3.png"
+  }
+  ],
+
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-3",
+  "newPro": true,
+  "sale": true,
+  "category": "Exit Lights"
+},
+{
+  "id": 5,
+  "name": "iTech IP65 “C” Series – Escape Route Wide Beam",
+  "price": 88,
+  "salePrice": 70.00,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/data1/data1.png",
+      "big": "assets/images/product/small/data1/data1.png"
+  },
+  {
+      "small": "assets/images/product/small/data1/data2.png",
+      "big": "assets/images/product/small/data1/data2.png"
+  },
+  {
+      "small": "assets/images/product/small/data1/data3.png",
+      "big": "assets/images/product/small/data1/data3.png"
+  }
+  ],
+  "small": [ "assets/images/product/small/exit1/exit1.png", "assets/images/product/small/exit1/exit2.png", "assets/images/product/small/exit1/exit3.png", "assets/images/product/small/exit1/exit4.png" ],
+
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 12,
+  "brand": "Brand-3",
+  "newPro": true,
+  "sale": false,
+  "category": "Emergency Lights"
+},
+{
+  "id": 6,
+  "name": "iTech IP65 “M” Series – Anti panic",
+  "price": 100,
+  "salePrice": 200,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/data2/data1.png",
+      "big": "assets/images/product/small/data2/data1.png"
+  },
+  {
+      "small": "assets/images/product/small/data2/data2.png",
+      "big": "assets/images/product/small/data2/data2.png"
+  },
+  {
+      "small": "assets/images/product/small/data2/data3.png",
+      "big": "assets/images/product/small/data2/data3.png"
+  },
+  {
+    "small": "assets/images/product/small/data2/data4.png",
+    "big": "assets/images/product/small/data2/data4.png"
+},
+{
+    "small": "assets/images/product/small/data2/data5.png",
+    "big": "assets/images/product/small/data2/data5.png"
+},
+{
+    "small": "assets/images/product/small/data2/data6.png",
+    "big": "assets/images/product/small/data2/data6.png"
+}
+  ],
+
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-5",
+  "newPro": true,
+  "sale": true,
+  "category": "Emergency Lights"
+},
+{
+  "id": 7,
+  "name": "ONTEC C “C” Series – Escape Route Wide Beam",
+  "price": 100,
+  "salePrice": 200,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/driver1/driver1.png",
+      "big": "assets/images/product/small/driver1/driver1.png"
+  },
+  {
+      "small": "assets/images/product/small/driver1/driver2.png",
+      "big": "assets/images/product/small/driver1/driver2.png"
+  },
+  {
+      "small": "assets/images/product/small/driver1/driver3.png",
+      "big": "assets/images/product/small/driver1/driver3.png"
+  },
+  {
+    "small": "assets/images/product/small/driver1/driver4.png",
+    "big": "assets/images/product/small/driver1/driver4.png"
+}
+  ],
+  "small": [ "assets/images/product/small/exit1/exit1.png", "assets/images/product/small/exit1/exit2.png", "assets/images/product/small/exit1/exit3.png", "assets/images/product/small/exit1/exit4.png" ],
+
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-3",
+  "newPro": true,
+  "sale": true,
+  "category": "Emergency Lights"
+},
+{
+  "id": 8,
+  "name": "ONTEC C “M” Series – Anti panic",
+  "price": 850,
+  "salePrice": 700,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/driver2/driver1.png",
+      "big": "assets/images/product/small/driver2/driver1.png"
+  },
+  {
+      "small": "assets/images/product/small/driver2/driver2.png",
+      "big": "assets/images/product/small/driver2/driver2.png"
+  },
+  {
+      "small": "assets/images/product/small/driver2/driver3.png",
+      "big": "assets/images/product/small/driver2/driver3.png"
+  },
+  {
+    "small": "assets/images/product/small/driver2/driver4.png",
+    "big": "assets/images/product/small/driver2/driver4.png"
+},
+{
+    "small": "assets/images/product/small/driver2/driver5.png",
+    "big": "assets/images/product/small/driver2/driver5.png"
+},
+{
+    "small": "assets/images/product/small/driver2/driver6.png",
+    "big": "assets/images/product/small/driver2/driver6.png"
+}
+  ],
+
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-4",
+  "newPro": true,
+  "sale": true,
+  "category": "Emergency Lights"
+},
+{
+  "id": 9,
+  "name": "Tablet VX3000 Extra Light",
+  "price": 850,
+  "salePrice": 700,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/driver3/driver1.png",
+      "big": "assets/images/product/small/driver3/drive1.png"
+  },
+  {
+      "small": "assets/images/product/small/driver3/driver2.png",
+      "big": "assets/images/product/small/driver3/driver2.png"
+  },
+  {
+      "small": "assets/images/product/small/driver3/driver3.png",
+      "big": "assets/images/product/small/driver3/driver3.png"
+  },
+  {
+    "small": "assets/images/product/small/driver3/driver4.png",
+    "big": "assets/images/product/small/driver3/driver4.png"
+}
+  ],
+
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-3",
+  "newPro": true,
+  "sale": true,
+  "category": "Emergency Lights"
+},
+{
+  "id": 10,
+  "name": "ONTEC S IP65 “C” Series Escape Route – Wide Beam",
+  "price": 940,
+  "salePrice": 700,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/driver4/drive1.png",
+      "big": "assets/images/product/small/driver4/drive1.png"
+  },
+  {
+      "small": "assets/images/product/small/driver4/drive2.png",
+      "big": "assets/images/product/small/driver4/drive2.png"
+  },
+  {
+      "small": "assets/images/product/small/driver34/drive3.png",
+      "big": "assets/images/product/small/driver4/drive3.png"
+  },
+  {
+    "small": "assets/images/product/small/driver4/drive4.png",
+    "big": "assets/images/product/small/driver4/drive4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-4",
+  "newPro": true,
+  "sale": true,
+  "category": "Emergency Lights"
+},
+{
+  "id": 11,
+  "name": "LC 100W 1100-2100mA flexC SR EXC",
+  "price": 760,
+  "salePrice": 600,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/driver5/drive1.png",
+      "big": "assets/images/product/small/driver5/drive1.png"
+  },
+  {
+      "small": "assets/images/product/small/driver5/drive2.png",
+      "big": "assets/images/product/small/driver5/drive2.png"
+  },
+  {
+      "small": "assets/images/product/small/driver5/drive3.png",
+      "big": "assets/images/product/small/driver5/drive3.png"
+  },
+  {
+    "small": "assets/images/product/small/driver5/drive4.png",
+    "big": "assets/images/product/small/driver5/drive4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-3",
+  "newPro": true,
+  "sale": true,
+  "category": "LED Drivers"
+},
+{
+  "id": 12,
+  "name": "LC 25W 600mA fixC SC ADV",
+  "price": 1200,
+  "salePrice": 1099,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/driver6/drive1.png",
+      "big": "assets/images/product/small/driver6/drive1.png"
+  },
+  {
+      "small": "assets/images/product/small/driver6/drive2.png",
+      "big": "assets/images/product/small/driver6/drive2.png"
+  },
+  {
+      "small": "assets/images/product/small/driver6/drive3.png",
+      "big": "assets/images/product/small/driver6/drive3.png"
+  },
+  {
+    "small": "assets/images/product/small/driver6/drive4.png",
+    "big": "assets/images/product/small/driver6/drive4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-4",
+  "newPro": true,
+  "sale": true,
+  "category": "LED Drivers"
+},
+{
+  "id": 13,
+  "name": "LC 4000W 600mA fghf SC BA",
+  "price": 400,
+  "salePrice": 300,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/emergency1/emergency1.png",
+      "big": "assets/images/product/small/emergency1/emergency1.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency1/emergency2.png",
+      "big": "assets/images/product/small/emergency1/emergency2.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency1/emergency3.png",
+      "big": "assets/images/product/small/emergency1/emergency3.png"
+  },
+  {
+    "small": "assets/images/product/small/emergency1/emergency4.png",
+    "big": "assets/images/product/small/emergency1/emergency4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-4",
+  "newPro": true,
+  "sale": true,
+  "category": "LED Drivers"
+},
+{
+  "id": 14,
+  "name": "ACR 4000W 600mA SC B",
+  "price": 700,
+  "salePrice": 600,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/emergency2/emergency1.png",
+      "big": "assets/images/product/small/emergency2/emergency1.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency2/emergency2.png",
+      "big": "assets/images/product/small/emergency2/emergency2.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency2/emergency3.png",
+      "big": "assets/images/product/small/emergency2/emergency3.png"
+  },
+  {
+    "small": "assets/images/product/small/emergency2/emergency4.png",
+    "big": "assets/images/product/small/emergency2/emergency4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-4",
+  "newPro": true,
+  "sale": true,
+  "category": "LED Drivers"
+},
+{
+  "id": 15,
+  "name": "LC 60W 1050mA fixC SC ADV",
+  "price": 399,
+  "salePrice": 300,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/emergency3/emergency1.png",
+      "big": "assets/images/product/small/emergency3/emergency1.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency3/emergency2.png",
+      "big": "assets/images/product/small/emergency3/emergency2.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency3/emergency3.png",
+      "big": "assets/images/product/small/emergency3/emergency3.png"
+  },
+  {
+    "small": "assets/images/product/small/emergency3/emergency4.png",
+    "big": "assets/images/product/small/emergency3/emergency4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "LED Drivers"
+},
+{
+  "id": 16,
+  "name": "DOC 1050mA fixC SC ADV",
+  "price": 699,
+  "salePrice": 599,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/emergency4/emergency1.png",
+      "big": "assets/images/product/small/emergency4/emergency1.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency4/emergency2.png",
+      "big": "assets/images/product/small/emergency4/emergency2.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency4/emergency3.png",
+      "big": "assets/images/product/small/emergency4/emergency3.png"
+  },
+  {
+    "small": "assets/images/product/small/emergency4/emergency4.png",
+    "big": "assets/images/product/small/emergency4/emergency4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "LED Drivers"
+},
+{
+  "id": 17,
+  "name": "2-Way Valve DN15 VVI46.15",
+  "price": 799,
+  "salePrice": 645,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/emergency5/emergency1.png",
+      "big": "assets/images/product/small/emergency5/emergency1.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency5/emergency2.png",
+      "big": "assets/images/product/small/emergency5/emergency2.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency5/emergency3.png",
+      "big": "assets/images/product/small/emergency5/emergency3.png"
+  },
+  {
+    "small": "assets/images/product/small/emergency5/emergency4.png",
+    "big": "assets/images/product/small/emergency5/emergency4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Valves & Actuators"
+},
+{
+  "id": 18,
+  "name": "Valve DN15 VVI46.15",
+  "price": 499,
+  "salePrice": 449,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/emergency6/emergency1.png",
+      "big": "assets/images/product/small/emergency6/emergency1.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency6/emergency2.png",
+      "big": "assets/images/product/small/emergency6/emergency2.png"
+  },
+  {
+      "small": "assets/images/product/small/emergency6/emergency3.png",
+      "big": "assets/images/product/small/emergency6/emergency3.png"
+  },
+  {
+    "small": "assets/images/product/small/emergency6/emergency4.png",
+    "big": "assets/images/product/small/emergency6/emergency4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-2",
+  "newPro": true,
+  "sale": true,
+  "category": "Valves & Actuators"
+},
+{
+  "id": 19,
+  "name": "PICV DN25 – VPI46.25F1.8Q",
+  "price": 479,
+  "salePrice": 449,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/acturator1/acturator1.png",
+      "big": "assets/images/product/small/acturator1/acturator1.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator1/acturator2.png",
+      "big": "assets/images/product/small/acturator1/acturator2.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator1/acturator3.png",
+      "big": "assets/images/product/small/acturator1/acturator3.png"
+  },
+  {
+    "small": "assets/images/product/small/acturator1/acturator4.png",
+    "big": "assets/images/product/small/acturator1/acturator4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Valves & Actuators"
+},
+{
+  "id": 20,
+  "name": "PICV DN40 – VPI46.40F9.5Q",
+  "price": 799,
+  "salePrice": 750,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/acturator2/acturator1.png",
+      "big": "assets/images/product/small/acturator2/acturator1.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator2/acturator2.png",
+      "big": "assets/images/product/small/acturator2/acturator2.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator2/acturator3.png",
+      "big": "assets/images/product/small/acturator2/acturator3.png"
+  },
+  {
+    "small": "assets/images/product/small/acturator2/acturator4.png",
+    "big": "assets/images/product/small/acturator2/acturator4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Valves & Actuators"
+},
+{
+  "id": 21,
+  "name": "W5000 AC 5675",
+  "price": 400,
+  "salePrice": 389,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/acturator3/acturator1.png",
+      "big": "assets/images/product/small/acturator3/acturator1.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator3/acturator2.png",
+      "big": "assets/images/product/small/acturator3/acturator2.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator3/acturator3.png",
+      "big": "assets/images/product/small/acturator3/acturator3.png"
+  },
+  {
+    "small": "assets/images/product/small/acturator3/acturator4.png",
+    "big": "assets/images/product/small/acturator3/acturator4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Damper Actuators"
+},
+{
+  "id": 22,
+  "name": "GGA 455 erw47",
+  "price": 400,
+  "salePrice": 389,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/acturator4/acturator1.png",
+      "big": "assets/images/product/small/acturator4/acturator1.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator4/acturator2.png",
+      "big": "assets/images/product/small/acturator4/acturator2.png"
+  },
+  {
+      "small": "assets/images/product/small/acturator4/acturator3.png",
+      "big": "assets/images/product/small/acturator4/acturator3.png"
+  },
+  {
+    "small": "assets/images/product/small/acturator4/acturator4.png",
+    "big": "assets/images/product/small/acturator4/acturator4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Damper Actuators"
+},
+{
+  "id": 23,
+  "name": "Premium 2000",
+  "price": 799,
+  "salePrice": 600,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/valve1/valve1.png",
+      "big": "assets/images/product/small/valve1/valve1.png"
+  },
+  {
+      "small": "assets/images/product/small/valve1/valve2.png",
+      "big": "assets/images/product/small/valve1/valve2.png"
+  },
+  {
+      "small": "assets/images/product/small/valve1/valve3.png",
+      "big": "assets/images/product/small/valve1/valve3.png"
+  },
+  {
+    "small": "assets/images/product/small/valve1/valve4.png",
+    "big": "assets/images/product/small/valve1/valve4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-5",
+  "newPro": true,
+  "sale": true,
+  "category": "Damper Actuators"
+},
+{
+  "id": 24,
+  "name": "Smart 2000",
+  "price": 799,
+  "salePrice": 600,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/valve2/valve1.png",
+      "big": "assets/images/product/small/valve2/valve1.png"
+  },
+  {
+      "small": "assets/images/product/small/valve2/valve2.png",
+      "big": "assets/images/product/small/valve2/valve2.png"
+  },
+  {
+      "small": "assets/images/product/small/valve2/valve3.png",
+      "big": "assets/images/product/small/valve2/valve3.png"
+  },
+  {
+    "small": "assets/images/product/small/valve2/valve4.png",
+    "big": "assets/images/product/small/valve2/valve4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-1",
+  "newPro": true,
+  "sale": true,
+  "category": "Damper Actuators"
+},
+{
+  "id": 25,
+  "name": "Siemens Differential Pressure Switch QBM81",
+  "price": 900,
+  "salePrice": 799,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/valve3/valve1.png",
+      "big": "assets/images/product/small/valve3/valve1.png"
+  },
+  {
+      "small": "assets/images/product/small/valve3/valve2.png",
+      "big": "assets/images/product/small/valve3/valve2.png"
+  },
+  {
+      "small": "assets/images/product/small/valve3/valve3.png",
+      "big": "assets/images/product/small/valve3/valve3.png"
+  },
+  {
+    "small": "assets/images/product/small/valve3/valve4.png",
+    "big": "assets/images/product/small/valve3/valve4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-5",
+  "newPro": true,
+  "sale": true,
+  "category": "Sensors"
+},
+{
+  "id": 26,
+  "name": "Air velocity sensor QVM62.1",
+  "price": 399,
+  "salePrice": 299,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/valve3/valve1.png",
+      "big": "assets/images/product/small/valve3/valve1.png"
+  },
+  {
+      "small": "assets/images/product/small/valve3/valve2.png",
+      "big": "assets/images/product/small/valve3/valve2.png"
+  },
+  {
+      "small": "assets/images/product/small/valve3/valve3.png",
+      "big": "assets/images/product/small/valve3/valve3.png"
+  },
+  {
+    "small": "assets/images/product/small/valve3/valve4.png",
+    "big": "assets/images/product/small/valve3/valve4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "stock": 5,
+  "brand": "Brand-5",
+  "newPro": true,
+  "sale": true,
+  "category": "Sensors"
+},
+{
+  "id": 27,
+  "name": "an coil room thermostat RDF510 AC230V",
+  "price": 200,
+  "salePrice": 179,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/valve4/valve1.png",
+      "big": "assets/images/product/small/valve4/valve1.png"
+  },
+  {
+      "small": "assets/images/product/small/valve4/valve2.png",
+      "big": "assets/images/product/small/valve4/valve2.png"
+  },
+  {
+      "small": "assets/images/product/small/valve4/valve3.png",
+      "big": "assets/images/product/small/valve4/valve3.png"
+  },
+  {
+    "small": "assets/images/product/small/valve4/valve4.png",
+    "big": "assets/images/product/small/valve4/valve4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-2",
+  "newPro": true,
+  "sale": true,
+  "category": "Thermostats"
+},
+{
+  "id": 28,
+  "name": "Modulating Thermostats RDF340 24V AC (0-10V)",
+  "price": 366,
+  "salePrice": 333,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/thermostat1/thermostat1.png",
+      "big": "assets/images/product/small/thermostat1/thermostat1.png"
+  },
+  {
+      "small": "assets/images/product/small/thermostat1/thermostat2.png",
+      "big": "assets/images/product/small/thermostat1/thermostat2.png"
+  },
+  {
+      "small": "assets/images/product/small/thermostat1/thermostat3.png",
+      "big": "assets/images/product/small/thermostat1/thermostat3.png"
+  },
+  {
+    "small": "assets/images/product/small/thermostat1/thermostat4.png",
+    "big": "assets/images/product/small/thermostat1/thermostat4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-2",
+  "newPro": true,
+  "sale": true,
+  "category": "Thermostats"
+},
+{
+  "id": 29,
+  "name": "Data 2",
+  "price": 100,
+  "salePrice": 200,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/thermostat2/thermostat1.png",
+      "big": "assets/images/product/small/thermostat2/thermostat1.png"
+  },
+  {
+      "small": "assets/images/product/small/thermostat2/thermostat2.png",
+      "big": "assets/images/product/small/thermostat2/thermostat2.png"
+  },
+  {
+      "small": "assets/images/product/small/thermostat2/thermostat3.png",
+      "big": "assets/images/product/small/thermostat2/thermostat3.png"
+  },
+  {
+    "small": "assets/images/product/small/thermostat2/thermostat4.png",
+    "big": "assets/images/product/small/thermostat2/thermostat4.png"
+}
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-3",
+  "newPro": true,
+  "sale": true,
+  "category": "Central Monitoring Systems"
+},
+{
+  "id": 30,
+  "name": "Data S Plus",
+  "price": 755,
+  "salePrice": 600,
+  "discount": 50,
+  "pictures": [
+    {
+      "small": "assets/images/product/small/data1/data1.png",
+      "big": "assets/images/product/small/data1/data1.png"
+  },
+  {
+      "small": "assets/images/product/small/data1/data2.png",
+      "big": "assets/images/product/small/data1/data2.png"
+  },
+  {
+      "small": "assets/images/product/small/data1/data3.png",
+      "big": "assets/images/product/small/data1/data3.png"
+  }
+  ],
+  "shortDetails": "Sed ut perspiciatis, unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam eaque ipsa, quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt, explicabo. Nemo enim ipsam voluptatem,",
+  "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+  "stock": 5,
+  "brand": "Brand-2",
+  "newPro": true,
+  "sale": true,
+  "category": "Central Monitoring Systems"
+}
+
+]
