@@ -3,7 +3,7 @@
     "version": 1,
     "newProjectRoot": "projects",
     "projects": {
-        "ecommerce-sophia-new": {
+        "flynepal": {
             "root": "",
             "sourceRoot": "src",
             "projectType": "application",
@@ -23,7 +23,6 @@
                         "polyfills": "src/polyfills.ts",
                         "tsConfig": "src/tsconfig.app.json",
                         "assets": [
-                            "src/favicon.ico",
                             "src/assets"
                         ],
                         "styles": [
@@ -61,18 +60,18 @@
                 "serve": {
                     "builder": "@angular-devkit/build-angular:dev-server",
                     "options": {
-                        "browserTarget": "ecommerce-sophia-new:build"
+                        "browserTarget": "flynepal:build"
                     },
                     "configurations": {
                         "production": {
-                            "browserTarget": "ecommerce-sophia-new:build:production"
+                            "browserTarget": "flynepal:build:production"
                         }
                     }
                 },
                 "extract-i18n": {
                     "builder": "@angular-devkit/build-angular:extract-i18n",
                     "options": {
-                        "browserTarget": "ecommerce-sophia-new:build"
+                        "browserTarget": "flynepal:build"
                     }
                 },
                 "test": {
@@ -106,7 +105,7 @@
                 }
             }
         },
-        "ecommerce-sophia-new-e2e": {
+        "flynepal-e2e": {
             "root": "e2e/",
             "projectType": "application",
             "prefix": "",
@@ -115,11 +114,11 @@
                     "builder": "@angular-devkit/build-angular:protractor",
                     "options": {
                         "protractorConfig": "e2e/protractor.conf.js",
-                        "devServerTarget": "ecommerce-sophia-new:serve"
+                        "devServerTarget": "flynepal:serve"
                     },
                     "configurations": {
                         "production": {
-                            "devServerTarget": "ecommerce-sophia-new:serve:production"
+                            "devServerTarget": "flynepal:serve:production"
                         }
                     }
                 },
@@ -135,7 +134,7 @@
             }
         }
     },
-    "defaultProject": "ecommerce-sophia-new",
+    "defaultProject": "flynepal",
     "cli": {
         "analytics": false
     }
